@@ -1,0 +1,13 @@
+footer.footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    background: #333333;
+    color: #fff;
+    height: 44px;
+}
+
+p.footer-text {
+    line-height: 44px;
+}
